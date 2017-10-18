@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 18, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Damion Watson)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Tax bracket calculator depening on filing status and income.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/dw16f/lesson5_javascript2)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (learned how to use the formula for depending tax percentage)
+2. (learned about if/else statement)
+3. (learned about pushing to git)
 
